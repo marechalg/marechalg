@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marechalg
+- 👋 Hi, I’m [Guéwen Maréchal](https://github.com/marechalg/)
 - 👀 I’m interested in sim racing and partially in development
 - 🌱 I’m currently learning Rust, Java, C and Italian
 - 📫 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8000/)
