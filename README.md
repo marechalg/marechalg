@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marechalg
 - 👀 I’m interested in sim racing and partially in development
 - 🌱 I’m currently learning Rust, Java, C and Italian
-- 💞️ I’m looking to collaborate in a company
 - 📫 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8000/)
-- ⚡ Fun fact: Practiced euphonium for 10 years, now playing in a Harmony Orchestra in my natal town
+- ⚡ Side activities : playing euphonium in my natal town, riding a bike in a world of twists and turns
