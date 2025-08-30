@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Guéwen Maréchal](https://github.com/marechalg/)
 - 👀 I’m interested in motorsports and partially in development
-- 🌱 Actively learning Rust, Java and Italian
+- 🌱 Actively learning Rust, Java and Italian, and improving on Node.JS, PHP and English
 - 📫 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8000/)
 - ⚡ Side activities : playing well euphonium in my natal town, riding a bike in a world of twists and turns, driving in cirle for a long time from my room
