@@ -14,8 +14,8 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 
 # Statistics
 ## 💻 Most Used Languages
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=marechalg&show_icons=true&theme=monokai)](https://github.com/marechalg/github-readme-stats)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=marechalg&show_icons=true&theme=monokai)
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marechalg&show_icons=true&theme=monokai)](https://github.com/marechalg/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marechalg&show_icons=true&theme=monokai)
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=marechalg&theme=monokai&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=marechalg&theme=monokai&no-frame=true&row=1&column=7)
