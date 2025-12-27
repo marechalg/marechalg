@@ -11,7 +11,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 - 🛠️ Now working on : [Alizon](https://github.com/alizon-et-les-7-nains/alizon.git), [Countrydex](https://github.com/marechalg/countrydex.git), [BlackJack](https://github.com/marechalg/blackjack.git), [Portfolio](https://github.com/marechalg/portfolio.git)
 
 ---
-
+<!--
 # Statistics
 ## 💻 Most Used Languages
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=marechalg&show_icons=true&theme=monokai)
@@ -19,3 +19,4 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marechalg&show_icons=true&theme=monokai)
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=marechalg&theme=monokai&no-frame=true&row=2&column=7)
+-->
