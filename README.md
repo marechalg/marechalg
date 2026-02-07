@@ -9,3 +9,13 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 - 📫 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
 - ⚡ Side activities : euphonium, triathlon, sim-racing
 - 🛠️ Now working on : [Countrydex](https://github.com/marechalg/countrydex.git), [BlackJack](https://github.com/marechalg/blackjack.git), [Portfolio](https://github.com/marechalg/portfolio.git)
+
+---
+
+# Hard Skills
+### Software / System
+C / C++ | Java | PHP | Node.js | Rust | Kotlin | Python | JavaFX
+### Web
+PHP | JS / TS | HTML | CSS / SCSS | Vue | Express | Apache | Nuxt
+### Database
+PosgreSQL | MySQL | MariaDB | JSON | MongoDB | TutorialD
