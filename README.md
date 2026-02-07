@@ -52,3 +52,6 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![Git](https://img.shields.io/badge/Git-eb4d28?style=flat-square&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-249c5e?style=flat-square&logo=junit&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-1a647b?style=flat-square&logo=doxygen&logoColor=white)
+### 🔌 IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
