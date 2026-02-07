@@ -16,6 +16,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ### 🔧 Software / System
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-223a93?style=flat-square&logo=asm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=javafx&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -23,6 +24,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4bb150?style=flat-square&logo=bash&logoColor=white)
 ### 🌐 Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-cdb60a?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -36,6 +38,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![Vite](https://img.shields.io/badge/Vite-8721b7?style=flat-square&logo=vite&logoColor=white)
 ![Nitro](https://img.shields.io/badge/Nitro-ef7cec?style=flat-square&logo=nitro&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-20c3d4?style=flat-square&logo=tauri&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-764fad?style=flat-square&logo=bootstrap&logoColor=white)
 ### 💾 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -48,3 +51,4 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![Docker](https://img.shields.io/badge/Docker-0397f4?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-eb4d28?style=flat-square&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-249c5e?style=flat-square&logo=junit&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-1a647b?style=flat-square&logo=doxygen&logoColor=white)
