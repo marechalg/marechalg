@@ -1,6 +1,8 @@
 # Li Koubra
 Here's my Github profile, where you can find a majority of my dev projects, whether they're personal or for study/work purposes
 
+[![wakatime](https://wakatime.com/badge/user/2fda1a80-37bb-4452-9058-1afa4bf88f23.svg)](https://wakatime.com/@2fda1a80-37bb-4452-9058-1afa4bf88f23)
+
 ---
 
 # Short Description
@@ -55,5 +57,3 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ### 🔌 IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-[![wakatime](https://wakatime.com/badge/user/2fda1a80-37bb-4452-9058-1afa4bf88f23.svg)](https://wakatime.com/@2fda1a80-37bb-4452-9058-1afa4bf88f23)
