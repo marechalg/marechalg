@@ -7,10 +7,12 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 
 # Short Description
 - 👋 Hi, I'm [Guéwen Maréchal](https://github.com/marechalg/)
+- 🎓 Undergraduate Student in Computer Science
+- 💼 Full Stack Developer Intern at Unissia
 - 🌱 Actively learning C, Rust, Nuxt and improving on Java, PHP
 - 📫 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
-- ⚡ Side activities : euphonium, triathlon, sim-racing
-- 🛠️ Now working on : [Alizon](https://github.com/Alizon-et-les-7-nains/alizon.git), [Countrydex](https://github.com/marechalg/countrydex.git), [Portfolio](https://github.com/marechalg/portfolio.git)
+- ⚡ Side activities : triathlon, euphonium
+- 🛠️ Now working on : PigConnect, [Countrydex](https://github.com/marechalg/countrydex.git), [Alive Bot](https://github.com/Alive-BDE/Alive-Bot.git), [Portfolio](https://github.com/marechalg/portfolio.git)
 
 ---
 
