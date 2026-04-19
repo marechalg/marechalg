@@ -40,9 +40,11 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-323232?style=flat-square&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8721b7?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-dca922?style=flat-square&logo=vitest&logoColor=white)
 ![Nitro](https://img.shields.io/badge/Nitro-ef7cec?style=flat-square&logo=nitro&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-20c3d4?style=flat-square&logo=tauri&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-764fad?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-3ec0f7?style=flat-square&logo=tailwindcss&logoColor=white)
 ### 💾 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -56,6 +58,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 ![Git](https://img.shields.io/badge/Git-eb4d28?style=flat-square&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-249c5e?style=flat-square&logo=junit&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-1a647b?style=flat-square&logo=doxygen&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff713d?style=flat-square&logo=postman&logoColor=white)
 ### 🔌 IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
