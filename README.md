@@ -9,7 +9,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 - 🎓 Undergraduate Student in Computer Science @IUT of Lannion
 - 💼 Full Stack Developer Intern @Unissia
 - 🌱 Actively learning Rust, Nuxt and improving on OOP
-- 🔐 Aiming for Cybersecurity / Cyberdefense 
+- 🔐 Aiming for Cybersecurity / Embedded Systems 
 - 🕖 Spending time on Triathlon, Euphonium
 - 🛠️ Now working on PigConnect, [Golden Jack](https://github.com/orgs/Golden-Jack/repositories), [Countrydex](https://github.com/marechalg/countrydex.git), [Alive Bot](https://github.com/Alive-BDE/Alive-Bot.git), [Portfolio](https://github.com/marechalg/portfolio.git)
 - 📫 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
