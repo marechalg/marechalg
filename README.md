@@ -11,7 +11,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 - Aiming for Cybersecurity / Embedded Systems
 - Actively learning Rust, Nuxt and improving on OOP
 - Spending time on Triathlon, Euphonium
-- Now working on PigConnect, [Golden Jack](https://github.com/orgs/Golden-Jack/repositories), [Countrydex](https://github.com/marechalg/countrydex.git), [Alive Bot](https://github.com/Alive-BDE/Alive-Bot.git), [Portfolio](https://github.com/marechalg/portfolio.git)
+- Now working on Pig'Connect, [Golden Jack](https://github.com/orgs/Golden-Jack/repositories), [Countrydex](https://github.com/marechalg/countrydex.git), [Alive Bot](https://github.com/Alive-BDE/Alive-Bot.git), [Portfolio](https://github.com/marechalg/portfolio.git)
 
 How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
 
