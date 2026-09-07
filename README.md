@@ -7,7 +7,7 @@ Here's my Github profile, where you can find a majority of my dev projects, whet
 
 # About Me
 - Undergraduate Student in Computer Science @IUT of Lannion
-- Full Stack Developer Intern @Unissia
+- Looking for a work-study position
 - Aiming for Cybersecurity / Embedded Systems
 - Actively learning Rust, Nuxt and improving on OOP
 - Spending time on Triathlon, Euphonium
