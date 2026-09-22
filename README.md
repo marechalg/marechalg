@@ -58,6 +58,7 @@ How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
 ![JUnit](https://img.shields.io/badge/JUnit-249c5e?style=flat-square&logo=junit&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/Doxygen-1a647b?style=flat-square&logo=doxygen&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff713d?style=flat-square&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-#d12b1f?style=flat-square&logo=redis&logoColor=white)
 ### 🔌 IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
