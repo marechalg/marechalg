@@ -62,6 +62,8 @@ How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
 ![Postman](https://img.shields.io/badge/Postman-ff713d?style=flat-square&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-95455c?style=flat-square&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-8080f1?style=flat-square&logo=eslint&logoColor=white)
+### 🧠 AI
+![scikit-learn](https://img.shields.io/badge/scikit-learn-f09538?style=flat-square&logo=scikit-learn&logoColor=white)
 ### 🔌 IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
