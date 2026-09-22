@@ -44,6 +44,7 @@ How to reach me ? See my [ePortolio](http://www.guewen-marechal.ovh:8080/)
 ![Tauri](https://img.shields.io/badge/Tauri-20c3d4?style=flat-square&logo=tauri&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-764fad?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3ec0f7?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-00d8ff?style=flat-square&logo=react&logoColor=white)
 ### 💾 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
